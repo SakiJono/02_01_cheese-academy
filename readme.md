@@ -1,6 +1,6 @@
 # CHEESE ACADEMY
 
-- デプロイ先https://sakijono.github.io/cheese-academy/
+- デプロイ先https://sakijono.github.io/02_01_cheese-academy/
 
 ## プロダクトの紹介
 
