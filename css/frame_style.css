@@ -1,0 +1,27 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-image: url(../img/背景\ 1.png);
+  background-repeat: repeat;
+}
+
+
+.frame{
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 900px;
+}
+
+.frame_img{
+  width: 50%;
+  position: absolute;
+}
+
+.back{
+  display: flex;
+  width: 49%;
+  margin-bottom: 10%;
+  position: absolute;
+}
